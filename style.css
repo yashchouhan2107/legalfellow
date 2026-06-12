@@ -894,3 +894,31 @@ img {
 .contact-link:hover {
     color: var(--primary-color);
 }
+
+
+/* Mobile Responsive Adjustments for Modals */
+@media (max-width: 768px) {
+    .modal-content {
+        padding: 20px !important;
+        width: 95% !important;
+        max-height: 85vh !important;
+    }
+    .modal-content h3 {
+        font-size: 20px !important;
+        margin-bottom: 15px !important;
+    }
+    .modal-content p, .modal-content ul {
+        font-size: 13px !important;
+        line-height: 1.5 !important;
+        margin-bottom: 10px !important;
+    }
+    .modal-content .btn {
+        width: 100% !important;
+        margin-right: 0 !important;
+        margin-bottom: 10px !important;
+        display: block !important;
+    }
+    .modal-overlay {
+        padding: 10px !important;
+    }
+}
