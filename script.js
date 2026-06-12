@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
             data._captcha = "false"; // Disable recaptcha for smoother UX
             data._subject = "New Legal Consultation Request";
 
-            fetch("https://formsubmit.co/ajax/saloni.legal@gmail.com", {
+            fetch("https://formsubmit.co/ajax/f7c6927252a7bce75cb6a7c012e3a25d", {
                 method: "POST",
                 headers: { 
                     'Content-Type': 'application/json',
@@ -182,7 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
             data._captcha = "false"; // Disable recaptcha for smoother UX
             data._subject = "New Legal Consultation Request";
 
-            fetch("https://formsubmit.co/ajax/saloni.legal@gmail.com", {
+            fetch("https://formsubmit.co/ajax/f7c6927252a7bce75cb6a7c012e3a25d", {
                 method: "POST",
                 headers: { 
                     'Content-Type': 'application/json',
@@ -302,7 +302,7 @@ document.addEventListener('DOMContentLoaded', () => {
             data._captcha = "false"; // Disable recaptcha for smoother UX
             data._subject = "New Legal Consultation Request";
 
-            fetch("https://formsubmit.co/ajax/saloni.legal@gmail.com", {
+            fetch("https://formsubmit.co/ajax/f7c6927252a7bce75cb6a7c012e3a25d", {
                 method: "POST",
                 headers: { 
                     'Content-Type': 'application/json',
@@ -437,7 +437,7 @@ document.addEventListener('DOMContentLoaded', () => {
             data._captcha = "false"; // Disable recaptcha for smoother UX
             data._subject = "New Legal Consultation Request";
 
-            fetch("https://formsubmit.co/ajax/saloni.legal@gmail.com", {
+            fetch("https://formsubmit.co/ajax/f7c6927252a7bce75cb6a7c012e3a25d", {
                 method: "POST",
                 headers: { 
                     'Content-Type': 'application/json',
@@ -561,7 +561,7 @@ document.addEventListener('DOMContentLoaded', () => {
             data._captcha = "false"; // Disable recaptcha for smoother UX
             data._subject = "New Legal Consultation Request";
 
-            fetch("https://formsubmit.co/ajax/saloni.legal@gmail.com", {
+            fetch("https://formsubmit.co/ajax/f7c6927252a7bce75cb6a7c012e3a25d", {
                 method: "POST",
                 headers: { 
                     'Content-Type': 'application/json',
@@ -697,7 +697,7 @@ document.addEventListener('DOMContentLoaded', () => {
             data._captcha = "false"; // Disable recaptcha for smoother UX
             data._subject = "New Legal Consultation Request";
 
-            fetch("https://formsubmit.co/ajax/saloni.legal@gmail.com", {
+            fetch("https://formsubmit.co/ajax/f7c6927252a7bce75cb6a7c012e3a25d", {
                 method: "POST",
                 headers: { 
                     'Content-Type': 'application/json',
