@@ -900,8 +900,14 @@ img {
 @media (max-width: 768px) {
     .modal-content {
         padding: 20px !important;
-        width: 95% !important;
+        width: calc(100vw - 40px) !important;
+        max-width: 100% !important;
         max-height: 85vh !important;
+        box-sizing: border-box !important;
+        margin: 0 auto !important;
+    }
+    .modal-overlay {
+        padding: 0 !important;
     }
     .modal-content h3 {
         font-size: 20px !important;
@@ -921,4 +927,12 @@ img {
     .modal-overlay {
         padding: 10px !important;
     }
+}
+
+
+/* Prevent horizontal scroll from AOS */
+.site-wrapper {
+    overflow-x: hidden;
+    width: 100%;
+    position: relative;
 }
